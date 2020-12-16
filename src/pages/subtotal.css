@@ -1,0 +1,14 @@
+.subtotal{
+    background-color: #C1C1C1;
+    width:30%;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+.proceed_button{
+    border: 2px solid white;
+    background-color:#CBCB41 ;
+    border-radius: 20px;
+    height: 40px;
+}

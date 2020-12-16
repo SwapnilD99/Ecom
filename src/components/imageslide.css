@@ -1,0 +1,12 @@
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 550px;
+}
+  
+#slide > img {
+    width: 100%;
+} 
+
